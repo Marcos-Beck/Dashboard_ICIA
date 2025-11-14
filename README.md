@@ -44,7 +44,7 @@ Ação:
   "inputs": {
     "parameters": {
       "groupid": "myworkspace",
-      "datasetid": "f3e8d15a-8cdc-4d00-90ea-511057a476de"
+      "datasetid": "-------"
     },
     "host": {
       "apiId": "/providers/Microsoft.PowerApps/apis/shared_powerbi",
