@@ -3,13 +3,13 @@
 #### [Link público do Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDgxYjc2ZmQtMTI5Mi00NTEwLTlmMjAtMDMxOGNjYTdlNDBlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9&pageName=c201bcc3c4352cb77162)
 ---
 # Índice
-1. [Sobre o Painel](https://github.com/Marcos-Beck/Dashboard_ICIA/new/main?filename=README.md#sobre-o-painel-)
-2. [Dados](https://github.com/Marcos-Beck/Dashboard_ICIA/new/main?filename=README.md#dados-)
-3. [Visualizações](https://github.com/Marcos-Beck/Dashboard_ICIA/new/main?filename=README.md#visualiza%C3%A7%C3%B5es-)
-4. [Medidas Principais](https://github.com/Marcos-Beck/Dashboard_ICIA/new/main?filename=README.md#medidas-principais-)
-5. [Tecnologias usadas](https://github.com/Marcos-Beck/Dashboard_ICIA/new/main?filename=README.md#tecnologias-usadas-%EF%B8%8F)
-6. [Possiveis Melhorias](https://github.com/Marcos-Beck/Dashboard_ICIA/new/main?filename=README.md#tecnologias-usadas-%EF%B8%8F)
-7. [Vantagens do Painel](https://github.com/Marcos-Beck/Dashboard_ICIA/new/main?filename=README.md#vantagens-do-painel)
+1. [Sobre o Painel](https://github.com/Marcos-Beck/Dashboard_ICIA/blob/main/README.md#sobre-o-painel-)
+2. [Dados](https://github.com/Marcos-Beck/Dashboard_ICIA/blob/main/README.md#dados-)
+3. [Visualizações](https://github.com/Marcos-Beck/Dashboard_ICIA/blob/main/README.md#visualiza%C3%A7%C3%B5es-)
+4. [Medidas Principais](https://github.com/Marcos-Beck/Dashboard_ICIA/blob/main/README.md#medidas-principais-)
+5. [Tecnologias usadas](https://github.com/Marcos-Beck/Dashboard_ICIA/blob/main/README.md#tecnologias-usadas-%EF%B8%8F)
+6. [Possiveis Melhorias](https://github.com/Marcos-Beck/Dashboard_ICIA/blob/main/README.md#tecnologias-usadas-%EF%B8%8F)
+7. [Vantagens do Painel](https://github.com/Marcos-Beck/Dashboard_ICIA/blob/main/README.md#vantagens-do-painel)
 
 ## Sobre o Painel 🔍
 Feito para **monitorar e analisar o ICIA** de maneira clara, com objetivo de oferecer facilidade ao acesso das informações e sua visualização filtrando apenas as informações principais a serem repassadas com o auxilio de medidas de variações relacionadas a pontuação atual e histórica.
